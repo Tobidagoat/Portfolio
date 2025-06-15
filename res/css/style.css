@@ -938,7 +938,6 @@ h1 {
         display: flex;
         flex-direction: column;
     }
-    /* Responsive Navbar: stack links on mobile */
     .nav-wrapper {
         flex-direction: column;
         align-items: stretch;

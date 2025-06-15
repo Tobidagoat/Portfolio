@@ -78,7 +78,6 @@ nav a:hover {
     overflow: hidden;
 }
 
-/* Left Panel */
 .left-panel {
     flex: 1.2;
     background: #161616;
@@ -127,7 +126,6 @@ nav a:hover {
     margin-right: 8px;
 }
 
-/* Center Panel */
 .center-panel {
     flex: 2;
     padding: 40px 32px;
@@ -186,7 +184,6 @@ nav a:hover {
     background: #2563eb;
 }
 
-/* Right Panel */
 .right-panel {
     flex: 1.2;
     background: #161616;
@@ -224,7 +221,6 @@ nav a:hover {
     color: #fff;
 }
 
-/* Responsive */
 @media (max-width: 900px) {
     .container {
         flex-direction: column;
